@@ -20,7 +20,7 @@ class Developer:
         self.interests = ["UI/UX Design 🎨", "IoT Projects ⚡", "Web Development 🌐", "Automation 🤖"]
         self.architecture = ["Responsive Design", "Component-based Architecture"]
         self.techCommunities = {
-            "member": "Innovation Club MTSN 39 Jakarta",
+            "member": "ELC Cakung Group",
             "student": "SMKN 26 Jakarta - SIJA",
             "contributor": "Open Source (GitHub)"
         }
