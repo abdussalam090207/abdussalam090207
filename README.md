@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=WELCOME+BRO!;Hi,+I'm+Alam+👋;Programmer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=WELCOME+BRO!;Hi,+I'm+Alam+👋;Programmer+%7C+UI%2FUX+Designer" alt="Typing Animation" />
 </p>
-
-<h1 align="center">Hi, I'm Alam 👋</h1>
 
 <p align="center">
   💻 Programmer | 🌐 JavaScript • HTML & CSS • Python | 🎨 UI/UX Designer
