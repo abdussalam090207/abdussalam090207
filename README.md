@@ -14,7 +14,7 @@ const alam = {
   code: [JavaScript, HTML, "CSS", Python],
   tools: [React, Node.js, Figma, VS Code, Git],
   interests: ["UI/UX Design", "IoT Projects", "Web Development", "Automation"],
-  architecture: [responsive design, "component-based architecture"],
+  architecture: ["responsive design", "component-based architecture"],
   techCommunities: {
     member: "ELC Cakung",
     learner: "SMKN 26 Jakarta - SIJA",
