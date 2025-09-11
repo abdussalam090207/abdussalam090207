@@ -27,9 +27,10 @@ Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Fronten
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdussalam090207&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam090207&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=abdussalam090207&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam090207&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdussalam090207/abdussalam090207/main/stat.svg" width="800" alt="Stats Banner"/>
