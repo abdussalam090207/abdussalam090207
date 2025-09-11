@@ -40,8 +40,8 @@ const alam = {
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=abdussalam090207&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam090207&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=abdussalam090207&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam090207&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 
