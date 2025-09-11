@@ -6,7 +6,7 @@
   💻 Programmer | 🌐 JavaScript • HTML & CSS • Python | 🎨 UI/UX Designer
 </p>
 
-### 😆 About Me
+### 😆 A Little More About Me
 Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Frontend Developer and Designer based in Indonesia.
 
 
