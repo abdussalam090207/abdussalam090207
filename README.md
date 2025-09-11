@@ -8,8 +8,21 @@
 
 ### 😆 A Little More About Me
 Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Frontend Developer and Designer based in Indonesia.
-
-
+```javascript
+const alam = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS", "Python"],
+  tools: ["React", "Node.js", "Figma", "VS Code", "Git"],
+  interests: ["UI/UX Design", "IoT Projects", "Web Development", "Automation"],
+  architecture: ["responsive design", "component-based architecture"],
+  techCommunities: {
+    member: "Innovation Club MTSN 39 Jakarta",
+    learner: "SMKN 26 Jakarta - SIJA",
+    contributor: "Open Source (GitHub)"
+  },
+  challenge: "Currently learning advanced JavaScript (React, Node.js) and Python for IoT & automation"
+}
+```
 ---
 
 ### 🔧 Tools & Technologies
