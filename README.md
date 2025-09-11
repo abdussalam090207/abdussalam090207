@@ -8,20 +8,40 @@
 
 ### 😆 A Little More About Me
 Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Frontend Developer and Designer based in Indonesia.
-```javascript
-const alam = {
-  pronouns: "he" | him,
-  code: [JavaScript, HTML, "CSS", Python],
-  tools: [React, Node.js, Figma, VS Code, Git],
-  interests: ["UI/UX Design", "IoT Projects", "Web Development", "Automation"],
-  architecture: ["responsive design", "component-based architecture"],
-  techCommunities: {
-    member: "ELC Cakung",
-    learner: "SMKN 26 Jakarta - SIJA",
-    contributor: "Open Source (GitHub)"
-  },
-  challenge: "Currently learning advanced JavaScript (React, Node.js) and Python for IoT & automation"
-}
+```python
+# 🚀 Welcome to Alam's GitHub Profile
+
+import datetime
+
+class Developer:
+    def __init__(self):
+        self.name = "Abdus Salam (Alam)"
+        self.pronouns = ["he", "him"]
+        self.code = ["JavaScript", "HTML", "CSS", "Python"]
+        self.tools = ["React", "Node.js", "Figma", "VS Code", "Git"]
+        self.interests = ["UI/UX Design 🎨", "IoT Projects ⚡", "Web Development 🌐", "Automation 🤖"]
+        self.architecture = ["Responsive Design", "Component-based Architecture"]
+        self.techCommunities = {
+            "member": "Innovation Club MTSN 39 Jakarta",
+            "student": "SMKN 26 Jakarta - SIJA",
+            "contributor": "Open Source (GitHub)"
+        }
+        self.challenge = "Learning advanced JavaScript (React, Node.js) and Python for IoT & automation"
+
+    def introduce(self):
+        print(f"Hi 👋, I'm {self.name}")
+        print(f"Pronouns: {'/'.join(self.pronouns)}")
+        print("💻 Languages & Frameworks:", ", ".join(self.code))
+        print("🛠 Tools:", ", ".join(self.tools))
+        print("🌱 Interests:", ", ".join(self.interests))
+        print("🏛 Architecture:", ", ".join(self.architecture))
+        print("🌍 Communities:", ", ".join(f'{k}: {v}' for k, v in self.techCommunities.items()))
+        print(f"🔥 Current Challenge: {self.challenge}")
+        print("⏳ Profile last updated:", datetime.date.today())
+
+if __name__ == "__main__":
+    dev = Developer()
+    dev.introduce()
 ```
 ---
 
