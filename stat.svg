@@ -1,0 +1,33 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card {
+      fill: #007bff; /* biru */
+      rx: 20;
+      ry: 20;
+    }
+    .title {
+      font: 16px 'Segoe UI', sans-serif;
+      fill: #ffffff; /* putih */
+    }
+    .number {
+      font: 40px 'Segoe UI', sans-serif;
+      fill: #ffffff; /* putih */
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- Card 1 -->
+  <rect x="30" y="30" width="250" height="140" class="card"/>
+  <text x="155" y="100" text-anchor="middle" class="number">15</text>
+  <text x="155" y="135" text-anchor="middle" class="title">Projects Complete</text>
+
+  <!-- Card 2 -->
+  <rect x="325" y="30" width="250" height="140" class="card"/>
+  <text x="450" y="100" text-anchor="middle" class="number">03+</text>
+  <text x="450" y="135" text-anchor="middle" class="title">Years Experience</text>
+
+  <!-- Card 3 -->
+  <rect x="620" y="30" width="250" height="140" class="card"/>
+  <text x="745" y="100" text-anchor="middle" class="number">320+</text>
+  <text x="745" y="135" text-anchor="middle" class="title">Coffee Consumed</text>
+</svg>
