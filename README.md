@@ -32,7 +32,7 @@ Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Fronten
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdussalam090207/abdussalam090207/output/stat.svg" alt="Stats Banner"/>
+  <img src="https://raw.githubusercontent.com/abdussalam090207/abdussalam090207/main/stat.svg" width="800" alt="Stats Banner"/>
 </p>
 
 ---
