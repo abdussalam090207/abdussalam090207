@@ -1,4 +1,7 @@
-<h1 align="center">WELCOME BRO!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=WELCOME+BRO!;Hi,+I'm+Alam+👋;Programmer+%7C+UI%2FUX+Designer" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi, I'm Alam 👋</h1>
 
 <p align="center">
@@ -38,9 +41,9 @@
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://github.com/abdussalam090207"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/@profabdus"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/profabdus"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:belajar.alam2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/profalaaamm_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/6289531657198"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
-
 
