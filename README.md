@@ -31,6 +31,10 @@ Bringing Ideas to Life with Code & Design. I'm Abdus Salam, a passionate Fronten
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam090207&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdussalam090207/abdussalam090207/output/stat.svg" alt="Stats Banner"/>
+</p>
+
 ---
 
 ### 🌱 What I'm currently learning
