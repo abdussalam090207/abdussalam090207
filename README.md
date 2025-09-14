@@ -69,10 +69,13 @@ if __name__ == "__main__":
 
 ---
 
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd3djNmOWZsZWF3djQ0NmthenFsdGt1dzJncG5sMWEyZWQwb2ZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8nH6xtdefALrKslyrj/giphy.gif" width="220" />
+
 ### 🌱 What I'm currently learning
 - Advanced JavaScript (React, Node.js)
 - Python Automation & IoT
 - UI/UX Design Best Practices
+
 
 ---
 
