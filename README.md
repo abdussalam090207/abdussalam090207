@@ -58,16 +58,16 @@ if __name__ == "__main__":
 <p align="center">
 
   <!-- OS -->
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20-F3F2EC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMzIwIj48cGF0aCBmaWxsPSIjMDE4M0Q1IiBkPSJNMTM2LjYgMTU4LjloLTExNXY5Mi45bDExNSAxNi4zdi05MnoiLz48cGF0aCBmaWxsPSIjMDE4M0Q1IiBkPSJNMTM2LjYgNjIuM3Y4Ni42aC0xMTVWNDkuNWwxMTUgMTIuOHoiLz48cGF0aCBmaWxsPSIjMDE4M0Q1IiBkPSJNMTUyLjcgMTYwLjZ2OTIuOWwxNjcuMyAyMy43VjE2MC42aC0xNjcuM3oiLz48cGF0aCBmaWxsPSIjMDE4M0Q1IiBkPSJNMTUyLjcgNDYuNnYxMTEuMWgxNjcuM1YyMi45bC0xNjcuMyAyMy43eiIvPjwvc3ZnPg==&logoColor=F3F2EC" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
 
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -79,12 +79,12 @@ if __name__ == "__main__":
 
   <!-- Design & Creative -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-FFFCFB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAxRTM2IiBoZWlnaHQ9IjI1MCIgdmlld0JveD0iMCAwIDI1MCAyNTAiIHdpZHRoPSIyNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjI1MCIgaGVpZ2h0PSIyNTAiIHJ4PSI0NSIvPjx0ZXh0IHg9IjcwIiB5PSIxNzAiIGZpbGw9IiM0QkE5RkYiIGZvbnQtc2l6ZT0iMTAwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiPlBzPC90ZXh0Pjwvc3ZnPg==&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 
   <!-- Editor -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-FFFCFB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAwIDI1MDAiPjxwYXRoIGZpbGw9IiMwMDdBQ0MiIGQ9Ik0xMjQ3LjkgMCA0MzkuNiA4OTEuNCAwIDEyNDcuOXY5OTQuM0wxMjQ3LjkgMjUwMCAyNTAwIDEyNDcuOVYxMjUyLjVMMTI0Ny45IDB6Ii8+PHBhdGggZmlsbD0iIzAwN0FDQyIgZD0iTTAsMjI0Mi4ydi0yMjQybDM4MC45IDI4NC44IDEwMTMuOC01NTIuNiA2NjEuMiAyNzguNEwxMjQ3LjkgMjUwMCIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDI5LjYgMTA5OC4yIDEyNDcuOSA5MTQuNXY2NzEuMWwyMDEuNy0xODcuNnoiLz48cGF0aCBmaWxsPSIjMDA3QUNDIiBkPSJNMTI0Ny45IDU4NS4zIDEwMDAuNSA3NDAuOCAzODEgMjA1LjcgMCA0MzUuMWwxMDAwLjUgNTUwLjcgMjQ3LjQtMjAwLjF6Ii8+PC9zdmc+" />
 
 </p>
 
